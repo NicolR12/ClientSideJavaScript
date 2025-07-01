@@ -1,0 +1,19 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+    background-color: #d5b6b6;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+
+  

@@ -1,0 +1,31 @@
+body {
+    
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color:cornflowerblue;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  #Container {
+    margin-top: 25px;
+  }
+  
+  #Image {
+    max-width: 80%;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  }
+  
+  #showCat{
+    font-family:inherit;
+    padding: 15px 30px;
+    font-size: 1.3rem;
+    background-color: rgb(197, 92, 157);
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+  }
+ 
